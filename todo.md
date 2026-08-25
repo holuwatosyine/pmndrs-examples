@@ -40,7 +40,7 @@
 
 - [x] **Halo Current** — technical sources: `flow-shield`, `sparks-and-effects`; a click-reactive shield with source-derived animated energy ribbons and no heavy bloom. Privately published as `halo-current`.
 - [x] **Vector Garden** — technical source: `bezier-curves-and-nodes`; an editable path field retaining direct node dragging and live curve recomputation. Privately published as `vector-garden`.
-- [ ] **Take Control Study** — `take-control`; a separate camera-control interaction project so its technical behavior is not implied by Vector Garden’s interface alone.
+- [x] **Control Room Study** — technical source: `take-control`; source-derived React Spring frame corridor, floating-object rotation, vertical drift, pointer interpolation, God Rays/noise/vignette stack, and optional OrbitControls hand-off surfaced as directed target selection and Take Control free orbit. Privately published as `take-control-study`. Final production build passed; browser canvas visual confirmation was limited by the documented session-level WebGL-context exhaustion condition.
 - [x] **Bubble Transit** — technical source: `bubbles`; restrained pointer-led refractive motion with rising satellite volumes. Privately published as `bubble-transit`.
 - [x] **Card Study** — technical source: `cards`; infinite rotary image archive retaining source scrolling, hover enlargement, and active-card detail state. Privately published as `card-study`.
 - [x] **Rounded Card Drift** — technical sources: `cards-with-border-radius`, `horizontal-tiles`; curved-card orbit with hover deformation and infinite circulation plus a selectable, scrollable horizontal index with animated minimap and card expansion. Privately published as `rounded-card-drift`.
