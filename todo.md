@@ -45,7 +45,7 @@
 - [x] **Card Study** — technical source: `cards`; infinite rotary image archive retaining source scrolling, hover enlargement, and active-card detail state. Privately published as `card-study`.
 - [x] **Rounded Card Drift** — technical sources: `cards-with-border-radius`, `horizontal-tiles`; curved-card orbit with hover deformation and infinite circulation plus a selectable, scrollable horizontal index with animated minimap and card expansion. Privately published as `rounded-card-drift`.
 - [x] **Waterline Archive** — technical source: `caustics`; transmissive glass, active caustic projection, responsive environment, and accumulative shadow material study. Privately published as `waterline-archive`.
-- [ ] **Reflection Loop** — `ground-reflections-and-video-textures`; a dedicated reflective video-texture study so this source remains technically distinct from Waterline Archive.
+- [x] **Reflection Loop** — technical source: `ground-reflections-and-video-textures`; live video-mapped 3D text, vehicle, imperfect reflective ground, and cursor camera with a user-selectable projected word. Privately published as `reflection-loop`.
 - [x] **Cloud Signal** — technical source: `clouds`; navigable volumetric cloud field with dynamic sky, source movement, and camera controls. Privately published as `cloud-signal`.
 - [ ] **Star Relay** — `gatsby-stars`; a separate starfield experience so the source is technically represented rather than only atmospherically associated.
 - [ ] **Infinite Gallery** — `infinite-scroll`; a technically scrolling archive connected to a new spatial hero.
