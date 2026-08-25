@@ -49,7 +49,7 @@
 - [x] **Cloud Signal** — technical source: `clouds`; navigable volumetric cloud field with dynamic sky, source movement, and camera controls. Privately published as `cloud-signal`.
 - [x] **Star Relay** — technical source: `gatsby-stars`; Maath-generated rotating point cloud with pointer parallax and selectable colour, size, and cadence channels. Privately published as `star-relay`.
 - [x] **Infinite Gallery** — technical source: `infinite-scroll`; custom infinite horizontal scroll container with looping image pages, depth/grayscale motion response, and a slow-index archive frame. Privately published as `infinite-gallery`.
-- [ ] **Resin Mass** — `inter-epoxy-resin` + `the-three-graces`; translucent object composition with intentional reflectance.
+- [x] **Resin Mass** — technical sources: `inter-epoxy-resin`, `the-three-graces`; a direct GLTF/Draco sculpture merge with transmissive physical resin materials, chromatic staged lighting, pointer-led motion, and responsive native Three.js renderer. Privately published as `resin-mass`. Final production build passed; browser visual confirmation was interrupted by a documented session-level WebGL-context exhaustion limitation.
 - [ ] **Soft Assembly** — `moksha` + `object-clump` + `springy-boxes`; separate spring and clustered-object physics coverage.
 - [ ] **Field Notes** — `pmndrs-vercel`; a meaningful technical treatment of the PMDRS/Vercel source rather than visual association only.
 - [x] **Pinball Nocturne** — technical source: `pinball-in-70-lines`; a compact recoloured playable footer game with cursor-driven paddle physics, moving bumpers, loss-plane reset, and scene restart. Privately published as `pinball-nocturne`.
