@@ -43,7 +43,7 @@
 - [ ] **Take Control Study** — `take-control`; a separate camera-control interaction project so its technical behavior is not implied by Vector Garden’s interface alone.
 - [x] **Bubble Transit** — technical source: `bubbles`; restrained pointer-led refractive motion with rising satellite volumes. Privately published as `bubble-transit`.
 - [x] **Card Study** — technical source: `cards`; infinite rotary image archive retaining source scrolling, hover enlargement, and active-card detail state. Privately published as `card-study`.
-- [ ] **Rounded Card Drift** — `cards-with-border-radius` + `horizontal-tiles`; a separate rounded-card navigation project so the remaining selected sources are covered technically.
+- [x] **Rounded Card Drift** — technical sources: `cards-with-border-radius`, `horizontal-tiles`; curved-card orbit with hover deformation and infinite circulation plus a selectable, scrollable horizontal index with animated minimap and card expansion. Privately published as `rounded-card-drift`.
 - [x] **Waterline Archive** — technical source: `caustics`; transmissive glass, active caustic projection, responsive environment, and accumulative shadow material study. Privately published as `waterline-archive`.
 - [ ] **Reflection Loop** — `ground-reflections-and-video-textures`; a dedicated reflective video-texture study so this source remains technically distinct from Waterline Archive.
 - [x] **Cloud Signal** — technical source: `clouds`; navigable volumetric cloud field with dynamic sky, source movement, and camera controls. Privately published as `cloud-signal`.
