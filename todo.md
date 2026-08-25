@@ -47,7 +47,7 @@
 - [x] **Waterline Archive** — technical source: `caustics`; transmissive glass, active caustic projection, responsive environment, and accumulative shadow material study. Privately published as `waterline-archive`.
 - [x] **Reflection Loop** — technical source: `ground-reflections-and-video-textures`; live video-mapped 3D text, vehicle, imperfect reflective ground, and cursor camera with a user-selectable projected word. Privately published as `reflection-loop`.
 - [x] **Cloud Signal** — technical source: `clouds`; navigable volumetric cloud field with dynamic sky, source movement, and camera controls. Privately published as `cloud-signal`.
-- [ ] **Star Relay** — `gatsby-stars`; a separate starfield experience so the source is technically represented rather than only atmospherically associated.
+- [x] **Star Relay** — technical source: `gatsby-stars`; Maath-generated rotating point cloud with pointer parallax and selectable colour, size, and cadence channels. Privately published as `star-relay`.
 - [ ] **Infinite Gallery** — `infinite-scroll`; a technically scrolling archive connected to a new spatial hero.
 - [ ] **Resin Mass** — `inter-epoxy-resin` + `the-three-graces`; translucent object composition with intentional reflectance.
 - [ ] **Soft Assembly** — `moksha` + `object-clump` + `springy-boxes`; separate spring and clustered-object physics coverage.
